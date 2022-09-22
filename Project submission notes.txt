@@ -1,0 +1,11 @@
+Below is the endpoint url for elastic beanstalk
+
+http://10.150.72.20/project2-ssk-dev-dev.us-east-1.elasticbeanstalk.com
+
+The image link provided in the project was not working so a different link was used instead 
+
+http://10.150.72.20/project2-ssk-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/12042866/pexels-photo-12042866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+
+Github link
+
+https://github.com/sunguski07/udacity-image-filter-project.git
